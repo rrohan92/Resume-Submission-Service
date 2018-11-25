@@ -1,0 +1,11 @@
+{
+  "lambda": {
+    "role": "emx-assignment-executor",
+    "name": "emx-assignment",
+    "region": "us-east-1"
+  },
+  "api": {
+    "id": "ua6r07ku81",
+    "module": "index"
+  }
+}
